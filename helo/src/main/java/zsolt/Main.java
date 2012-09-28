@@ -2,11 +2,13 @@ package zsolt;
 
 public class Main {
 
-	/**
-	 * @param args
-	 */
+	
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		HelloWorld hw1 = new HelloWorld();
+		
+		System.out.println(hw1.sayHi());
 
 	}
 
